@@ -1,7 +1,5 @@
 # TRAVEL_LIST
-Here’s a suitable **description** you can use in your GitHub README file for this React app:
 
----
 
 ## 🧳 Smart Travel Packing List App
 
